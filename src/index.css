@@ -1,0 +1,30 @@
+body {
+    font-family: 'Oswald';
+
+    color: white;
+    text-align: center;
+    font-size: 1.4rem;
+
+}
+
+body {
+    background: #654ea3;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eaafc8, #654ea3);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 200;
+    margin: 0;
+}
+
+h2,
+h3 {
+    margin: 0;
+}

@@ -1,0 +1,19 @@
+table{
+    width: 100%;
+    
+}
+
+tr{
+    width: 33%;
+    
+}
+th{
+    border: 2px solid #11E890;
+
+}
+.Par{
+    background-color: gray;
+}
+.Impar{
+    background-color: azure;
+}

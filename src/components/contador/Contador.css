@@ -1,0 +1,27 @@
+.Contador input{
+    font-size: 1.4rem;
+}
+.Contador button{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    font-size: 1.4rem;
+
+    background-image: linear-gradient(to right, #E55D87 0%, #5FC3E4 51%, #E55D87 100%)
+
+    
+}
+
+.Contador button{
+    text-transform: uppercase;
+    margin: 10px;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+}
+
+.Contador button:hover{
+    background-position: right center;
+    color: #fff;
+    text-decoration: none;
+}
